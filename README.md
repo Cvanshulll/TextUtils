@@ -8,11 +8,12 @@ The website is designed with a clean and user-friendly interface to provide a se
 
 - Light/Dark Mode
 <br/>
-React Text Utils offers a variety of features for <b>text manipulation</b>, including:  
--Text case conversion (uppercase, lowercase, title case, sentence case)  
--Remove extra spaces    
--Character count
--Capitalise
--Copy Text
--Word count
--Clear
+React Text Utils offers a variety of features for <b>text manipulation</b>, including:
+<br/>
+- Text case conversion (uppercase, lowercase, title case, sentence case)  
+- Remove extra spaces    
+- Character count
+- Capitalise
+- Copy Text
+- Word count
+- Clear
